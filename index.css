@@ -1,0 +1,28 @@
+body{
+    margin: 1%;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+.github-icon {
+    height: 50px;
+    width: 50px;
+}
+.profile{
+    display: flex;
+    margin-block-start: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.profile-info{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Brewery-site{
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.love-emoji {
+    color: red;
+}
